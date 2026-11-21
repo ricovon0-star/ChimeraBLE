@@ -23,7 +23,7 @@ Built on [NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino) 2.x.
 |---|---|---|---|
 | `esp32dev` | ESP32 WROOM | classic Xtensa dual-core | serial CLI |
 | `xiao_esp32c5` | Seeed Studio XIAO ESP32-C5 | RISC-V single-core | serial CLI |
-| `cardputer` | M5Stack Cardputer ADV | ESP32-S3 (Stamp-S3A) | on-device M5 UI |
+| `card outer` | M5Stack Cardputer ADV | ESP32-S3 (Stamp-S3A) | on-device M5 UI |
 
 All targets use the [pioarduino](https://github.com/pioarduino/platform-espressif32)
 platform (Arduino-ESP32 3.x / ESP-IDF 5.5) and **share the same BLE engine**
